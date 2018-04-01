@@ -1,0 +1,6 @@
+
+window.hmbr = {
+    ffxvnewquest: {
+        hunt: {}
+    }
+}
