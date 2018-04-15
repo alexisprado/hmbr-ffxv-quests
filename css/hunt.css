@@ -36,9 +36,6 @@
         html body .new-quest-container .new-quest-accepted.active .new-quest-accepted-shadow {
           opacity: 1; }
 
-html body .hmbr-author-avatar {
-  background: url("https://holdmybr.blob.core.windows.net/blog/designers/alexisprado.jpg") no-repeat; }
-
 html body .new-quest-container.hunt .new-quest-list {
   z-index: 2;
   position: absolute;
